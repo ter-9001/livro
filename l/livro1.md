@@ -1,6 +1,6 @@
-#BEBE
-**Duas estrelas
+# BEBE
+** Duas estrelas
 _underlines nos lados_
-:happy
+: happy
 ## usei dois pontos e nome do emoji
 
