@@ -4,5 +4,5 @@
 
 ######teste de livros, commit, add git :)
 
-**git config --global unset
-**git config --li
+git config --global unset
+git config --li
