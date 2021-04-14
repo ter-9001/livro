@@ -1,8 +1,8 @@
 
 
-#teste de livros
+# Teste de livros
 
-######teste de livros, commit, add git :)
+###### teste de livros, commit, add git :)
 
-git config --global unset
-git config --li
+* git config --global unset
+* git config --li
