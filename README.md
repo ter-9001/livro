@@ -1,10 +1,11 @@
 
 
-# Teste de livros :satisfied:
+# GIT MANUAL :satisfied:
 
-###### teste de livros, commit, add git :)
+###### Comand more useful on Git Bash :)
 
-* git config -- global unset
-* git config -- li
-* git push origin master
-* git clone url
+* git config --global unset enmail.user=> unset email user
+* git config --li => list configuration list
+* git push origin master => load local repository for online
+* git clone <url> =>  downloand (clone) online repository to online.
+* git pull oringin master => downloand a controversy code
