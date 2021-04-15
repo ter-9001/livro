@@ -10,6 +10,8 @@
 * git clone <url> =>  downloand (clone) online repository to online.
 * git pull oringin master => downloand a controversy code
 
-# ANOTHER TOOLS :flushed:
-## FIND A LIST OF MARKDOWN EMOJIS CODE ON 
-### tools/emojis.md :wink:
+## ANOTHER TOOLS :flushed:
+### FIND A LIST OF MARKDOWN EMOJIS CODE ON 
+#### tools/emojis.md :wink:
+### FIND A LIST OF USEFUL MORE BASH/GIT BASH comands 
+#### tools/bash.md :wink:
